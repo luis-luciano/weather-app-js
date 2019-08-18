@@ -14,8 +14,8 @@ Algunas otras herramientas utilizadas son:
 ## Ejecución del proyecto
 * Descargar el codigo fuente de este repositorio.
 * Instalar las dependencias de node.js a través del comando **npm install**
-* Construir la versión de despliegue con el comando **npm run build**.
-* Preparar el servidor para la ejecución con el comando **npm run dev**
+* Construir la versión de despliegue de producción con el comando **npm run build**, finalmente se creará una carpeta con nombre **dist**.
+* Preparar el servidor para la ejecución con el comando **npm run dev** se ejecutará en [http://localhost:3000]
 
 ## Descripcion de archivos
 * Store.js.md  
@@ -43,3 +43,9 @@ Herramienta de apoyo para webpack.
 Creacion de un servidor de ejecucion.
 * **html-webpack-plugin**   
 Para integracion de archivos de html.
+
+## Otros datos sobre el proyecto
+* Se generó un gradiente [https://uigradients.com] copiando el css
+
+### Password
+38LRT2sHFtLJBaM
